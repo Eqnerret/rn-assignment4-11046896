@@ -1,5 +1,4 @@
 # rn-assignment4-11046896
-# rn-assignment4-11046896
 
 markdown
 Copy code
