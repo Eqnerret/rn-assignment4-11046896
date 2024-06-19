@@ -34,10 +34,10 @@ Throughout the application, custom components like `JobCard` are used to ensure 
 Below are screenshots of the application to illustrate its appearance:
 
 - **Login Screen**
-  ![Login Screen](./myrnapp/assets/LoginPagescreenshot.jpg)
+  ![Login Screen](./LoginPagescreenshot.jpg)
 
 - **Home Screen**
-  ![Home Screen](./myrnapp/assets/HomePagescreenshot.jpg)
+  ![Home Screen](./HomePagescreenshot.jpg)
 
 ## Usage
 
